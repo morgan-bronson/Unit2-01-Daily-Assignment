@@ -1,1 +1,2 @@
- [![linter](https://github.com/<OWNER>/<REPOSITORY>/workflows/linter/badge.svg)](https://github.com/marketplace/actions/super-linter)  
+# Unit2-01-Daily-Assignment
+ [![linter](https://github.com/morgan-bronson/Unit2-01-Daily-Assignment/workflows/linter/badge.svg)](https://github.com/marketplace/actions/super-linter)
